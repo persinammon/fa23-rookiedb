@@ -18,6 +18,10 @@ anyway (now that I have attained more mathematical/computer science maturity).
 &nbsp;
 &nbsp;
 
+## Update and Final Verdict
+
+Decided to desist and deprecate. I am not really a computer scientist, even though I like software. Did not see point in hundred percent learning it without building on top of it or deepening it afterwards.
+
 ---
 
 # RookieDB
